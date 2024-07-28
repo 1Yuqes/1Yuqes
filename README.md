@@ -12,7 +12,7 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://github.com/1Yuqass/1Yuqass/blob/main/github-user-contribution.svg"
   />
   />
   <img
