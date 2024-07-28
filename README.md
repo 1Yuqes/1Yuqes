@@ -1,5 +1,5 @@
 <h1 align="center">Nerhaba ben 1Yuqas (⌐■_■)</h1>
-<p align="center">Ana Dilim Java genelde Minecraft pluginleri yazarım</p>
+<p align="center"></p>
 
 <div align="center">
     <a href="https://discord.gg/rowrain"><img src="https://img.shields.io/discord/1193188455946133645?logo=discord" alt="Discord"/></a>
