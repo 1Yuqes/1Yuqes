@@ -16,12 +16,7 @@
   />
   />
   <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
-
-![snake gif](https://github.com/1Yuqass/1Yuqass/blob/output/github-contribution-grid-snake.gif)
 
 
