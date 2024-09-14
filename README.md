@@ -8,15 +8,6 @@
 # 
     
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/1Yuqass/1Yuqass/blob/main/github-user-contribution.svg"
-  />
-  />
-  <img
-  />
 </picture>
 
 
