@@ -1,4 +1,4 @@
-<h1 align="center">Hello ben 1Yuqas (⌐■_■)</h1>
+<h1 align="center">Hello ben 1Yuqas ☜(ﾟヮﾟ☜)</h1>
 <p align="center"></p>
 
 <div align="center">
