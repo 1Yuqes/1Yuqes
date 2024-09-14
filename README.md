@@ -22,4 +22,6 @@
 </picture>
 
 
+![snake gif](https://github.com/1Yuqass/1Yuqass/blob/output/github-contribution-grid-snake.gif)
+
 
